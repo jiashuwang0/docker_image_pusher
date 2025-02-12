@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 apache/apisix:3.9.1-redhat
 bitnami/etcd:3.5.11
+apache/apisix-dashboard:3.0.1-centos
+apache/apisix:3.1.0-centos
