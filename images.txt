@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架 构  
 --platform=linux/arm64 xiaoyaliu/alist
 apache/apisix:3.9.1-redhat
+bitnami/etcd:3.5.11
