@@ -9,3 +9,4 @@ bitnami/etcd:3.5.11
 apache/apisix-dashboard:3.0.1-centos
 apache/apisix:3.1.0-centos
 alpine:3.21
+golang:1.23
