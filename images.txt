@@ -11,3 +11,4 @@ apache/apisix:3.1.0-centos
 alpine:3.21
 golang:1.23
 apache/apisix:3.0.0-centos
+quay.io/prometheus/node-exporter
