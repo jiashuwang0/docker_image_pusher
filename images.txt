@@ -12,3 +12,4 @@ alpine:3.21
 golang:1.23
 apache/apisix:3.0.0-centos
 quay.io/prometheus/node-exporter
+rancher/mirrored-pause:3.6
